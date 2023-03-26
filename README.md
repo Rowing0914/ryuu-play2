@@ -1,6 +1,8 @@
 # My setup
 - Server: node-js == 19.8.1
 - Play (Client): node-js==16.0.0
+- Bot: user-name == pw == "bot"
+- you can just import the `sample-deck.txt` to quickly test!
 
 
 # RyuuPlay

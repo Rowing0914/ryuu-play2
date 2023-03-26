@@ -1,1 +1,0 @@
-• Update to Angular 12
